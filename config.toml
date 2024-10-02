@@ -1,0 +1,6 @@
+[player]
+currentHP = 100
+maxHP = 100
+currentXP = 0
+levelupXP = 2000
+rank = 1
